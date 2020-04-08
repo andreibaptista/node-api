@@ -5,6 +5,9 @@
     },
     "rules": {
         "@typescript-eslint/strict-boolean-expressions": "off",
-        "@typescript-eslint/indent": "off"
+        "@typescript-eslint/indent": "off",
+        "no-template-curly-in-string": "off",
+        "semi": 0,
+        "@typescript-eslint/restrict-template-expressions": "off"
     }
 }
